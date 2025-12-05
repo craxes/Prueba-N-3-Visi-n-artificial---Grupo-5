@@ -4,7 +4,7 @@ Documentos y código fuente para el sistema de detección y conteo automático d
 
 ## 📖 Documentos Disponibles
 - [📖 Presentación Final](PruebaFinal_Arancibia_Moya_Grangier.pptx)
-- [📖 Informe Final](PruebaFinal_Arancibia_Moya_Grangier.pptx)
+- [📖 Informe Final](Conteo_de_linea_virtual.pdf)
 - [📖 Video de presentacion](https://youtu.be/vUIL4SWArNM)
 
 ### Código Fuente
