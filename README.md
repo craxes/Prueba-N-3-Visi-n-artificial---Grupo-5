@@ -4,9 +4,10 @@ Documentos y código fuente para el sistema de detección y conteo automático d
 
 ## 📖 Documentos Disponibles
 - [📖 Presentación Final](PruebaFinal_Arancibia_Moya_Grangier.pptx)
+- [📖 Informe Final](PruebaFinal_Arancibia_Moya_Grangier.pptx)
 
 ### Código Fuente
-- [💻 Código Funcional: Contador YOLO](Auto_Personas.py)
+- [💻 Código Funcional: Contador YOLO](Personas_y_vehiculos.py)
 
 ## 🎯 Funcionalidades
 
