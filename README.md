@@ -17,7 +17,7 @@ El sistema utiliza el modelo YOLOv8m para identificar objetos (personas, autos, 
 
 **Ejecutar:**
 ```bash
-python Auto_Personas.py
+python Personas_y_vehiculos.py
 ```
 
 # Instalar dependencias necesarias (OpenCV, Ultralytics, Numpy)
