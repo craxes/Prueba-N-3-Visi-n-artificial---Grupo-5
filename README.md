@@ -1,1 +1,27 @@
-# Prueba-N-3-Visi-n-artificial---Grupo-5
+# 📚 Proyecto 5: Contador de Línea Virtual con YOLOv8
+
+Documentos y código fuente para el sistema de detección y conteo automático de personas y vehículos mediante Inteligencia Artificial y Visión por Computadora.
+
+## 📖 Documentos Disponibles
+- [📖 Presentación Final](PruebaFinal_Arancibia_Moya_Grangier.pptx)
+
+### Código Fuente
+- [💻 Código Funcional: Contador YOLO](Auto_Personas.py)
+
+## 🎯 Funcionalidades
+
+### Funcionalidad 1: Detección y Conteo Inteligente
+El sistema utiliza el modelo YOLOv8m para identificar objetos (personas, autos, buses, camiones) y contar sus cruces a través de una línea virtual en tiempo real.
+
+**Ejecutar:**
+```bash
+python Auto_Personas.py
+```
+
+# Instalar dependencias necesarias (OpenCV, Ultralytics, Numpy)
+pip install opencv-python ultralytics numpy
+
+
+
+
+
