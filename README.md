@@ -20,7 +20,11 @@ python Auto_Personas.py
 ```
 
 # Instalar dependencias necesarias (OpenCV, Ultralytics, Numpy)
+```bash
 pip install opencv-python ultralytics numpy
+```
+
+
 
 
 
